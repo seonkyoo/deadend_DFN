@@ -1,0 +1,3 @@
+dfnGen   /home/user/scripts/gen_DFN.dat 
+dfnFlow  /home/user/scripts/dfn_explicit.in 
+dfnTrans /home/user/scripts/PTDFN_control.dat 
